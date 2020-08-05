@@ -1,1 +1,9 @@
+{
+  "students":[
+    {"id":1,"name":"siva","age":38},
+    {"id":2,"name":"lakshmi","age":32},
+    {"id":3,"name":"sai1","age":4},
+    {"id":4,"name":"sai2","age":1}
+    ]
+}
 
